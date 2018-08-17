@@ -1,0 +1,16 @@
+
+
+
+
+
+body {
+  font-size: 200%;
+  background-color:#B0FFEB;
+  text-align:center;
+}
+
+.sandyClass { 
+  font-size: 400%;
+  border: 3px dotted black;
+  
+}
